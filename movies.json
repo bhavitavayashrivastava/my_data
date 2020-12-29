@@ -1,0 +1,22 @@
+[
+	{
+		"Title": "The Avengers",
+		"Released" : 2012,
+		"Watchable" : true,
+		"Casts" : [
+			{
+				"Actor" : "Robert Downey Jr",
+				"Power" : "Fly"
+			}]
+	},
+	{
+		"Title": "Thor",
+		"Released" : 2011,
+		"Watchable" : false,
+		"Casts" : [
+			{
+				"Actor" : "Chris Evans",
+				"Power" : "Extreme Fast"
+			}]
+	}
+]

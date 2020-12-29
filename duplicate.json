@@ -1,0 +1,19 @@
+data = {
+{
+	'name':'bharath',
+	'address':'bhopal',
+	'age': 42,
+	'job':'manager',
+	'name':'shrivastava'
+
+},
+{
+	'name':'ruby',
+	'address':'jabalpur',
+	'age': 23,
+	'job':'reception',
+	'name':'singh'
+
+}
+
+}

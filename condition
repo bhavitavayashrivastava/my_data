@@ -1,0 +1,4 @@
+"$and":[
+{gender:"Male"},
+"married_status": true}
+]
